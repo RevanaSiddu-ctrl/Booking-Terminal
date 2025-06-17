@@ -1,5 +1,5 @@
 # Booking-Terminal
-# Tourist Booking System
+# Tourist Booking System.
 
 Welcome to the **Tourist Booking System**! This is a simple command-line Python application that allows users to choose a travel destination, select a trip batch, and calculate the total price based on the number of travelers and their ages. Additionally, it collects customer contact details and validates them. The system also provides special discounts for children (6-12 years) and senior citizens (60+ years).
 
